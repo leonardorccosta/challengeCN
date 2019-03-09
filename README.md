@@ -1,2 +1,6 @@
-# codenationENEM
-Code:Nation -  Jornada Data Scientist - 3º Lugar 
+
+#Jornada de Data Scientist - Code:Nation
+
+
+
+Desafio da Code:Nation sobre as notas do ENEM, relacionando classificação e regressão.
